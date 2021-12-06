@@ -1,16 +1,14 @@
-# xylophone
+# Xylophone Android App
 
-A new Flutter project.
+![](./Xylophone%20app.jpeg)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+- This app plays 7 notes.
+- In this project, audioplayers: ^0.15.1 is used from flutter packages.
+- Go to link [https://pub.dev/flutter/packages](https://pub.dev/flutter/packages) to use various flutter packages.
+- Use the latest audioplayer package [https://pub.dev/flutter/packages?q=audioplayers](https://pub.dev/flutter/packages?q=audioplayers).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
